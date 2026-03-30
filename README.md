@@ -104,6 +104,8 @@ Data augmentation was kept minimal on purpose — just a horizontal flip and pix
 
 ## Dataset
 
+Dataset Link-https://drive.google.com/drive/folders/18htyBi2YIAS-8-qO8MFtvUorch0aRB9N?usp=sharing
+
 The dataset used for training comes from Kaggle:
 
 - **Source:** `syedzaidalii/deepfake` — `df 40` split
